@@ -201,7 +201,7 @@
           },
           "textStyle": {
             "color": "#222",
-            "fontSize": "12"
+            "fontSize": "15"
           }
         },
         "legacyScatterChartLabels": true,
@@ -544,12 +544,12 @@
         "clipMode": "hidden",
         "opacity": 1,
         "position": {
-          "x": 77,
-          "y": 496
+          "x": 35,
+          "y": 505
         },
         "extent": {
-          "x": 740.55078125,
-          "y": 270.1796875
+          "x": 740,
+          "y": 270
         },
         "fill": "Color.rgba(0,0,0,0.05)",
         "border": {
@@ -673,12 +673,12 @@
         "clipMode": "hidden",
         "opacity": 1,
         "position": {
-          "x": 993,
-          "y": 499
+          "x": 905,
+          "y": 505
         },
         "extent": {
-          "x": 699.55078125,
-          "y": 270.1796875
+          "x": 740,
+          "y": 270
         },
         "fill": "Color.rgba(0,0,0,0.05)",
         "border": {
@@ -746,8 +746,8 @@
         "clipMode": "visible",
         "opacity": 1,
         "position": {
-          "x": 987,
-          "y": 15.73100298656621
+          "x": 837,
+          "y": 12
         },
         "extent": {
           "x": 361,
@@ -829,11 +829,7 @@
           "height": 0
         },
         "textAndAttributes": [
-          " ",
-          {
-            "fontFamily": "\"IBM Plex Sans\""
-          },
-          "User Acquisition",
+          " User Acquisition",
           {
             "fontFamily": "Arial Black"
           }
@@ -850,8 +846,8 @@
         "clipMode": "visible",
         "opacity": 1,
         "position": {
-          "x": 833,
-          "y": 11.902431557994774
+          "x": 688,
+          "y": 10
         },
         "extent": {
           "x": 144,
